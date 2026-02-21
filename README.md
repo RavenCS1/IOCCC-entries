@@ -9,8 +9,8 @@ International Obfuscated C Code Contest submissions and experiments.
 ## Structure
 
 ioccc-entries/
-├── IOCCC29/ # IOCCC 2029 contest
-├── IOCCC30/ # Future contests
+- IOCCC29/ # IOCCC 2029 contest
+- IOCCC30/ # Future contests
 
 
 ## Featured Entries
